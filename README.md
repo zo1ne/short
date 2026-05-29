@@ -2,8 +2,15 @@
 
 一个使用 Cloudflare Pages 创建的 URL 缩短器
 
-*Demo* : [https://d.131213.xyz/](https://d.131213.xyz/)
+*Demo* : [https://short-3ud.pages.dev/](https://short-3ud.pages.dev/)
 
+
+### 利用Tencent EdgeOne Pages 部署
+> 未完成，Tencent EdgeOne的KV 存储还在申请中
+
+一键部署：
+
+[![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/x-dr/short)
 
 
 ### 利用Cloudflare pages部署
